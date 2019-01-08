@@ -1,0 +1,33 @@
+div {
+	 word-wrap: break-word;
+}
+
+.col-md-4 {
+	border: 1px solid #343A40;
+	border-radius: 10px;
+	margin-bottom: 32px;
+}
+
+.blog-main {
+	border-right: 5px solid #000;
+	border-left: 5px solid #000;
+	border-radius: 20px;
+}
+
+.csv {
+    margin: 5px 0;
+}
+
+.krajee-default.file-preview-frame {
+	max-width: 46%;
+	padding: 3px;
+	margin: 10px;
+	} .krajee-default.file-preview-frame > img {
+		max-width: 50%!important;
+		max-height: 50%!important;
+}
+
+.im_ex {
+	width: 70%;
+	margin: 6px auto;
+}
